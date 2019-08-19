@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		869E9560230A46AA005BFF1B /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869E955F230A46AA005BFF1B /* MapView.swift */; };
 		EAB474B02302A569002FD1EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB474AF2302A569002FD1EB /* AppDelegate.swift */; };
 		EAB474B22302A569002FD1EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB474B12302A569002FD1EB /* SceneDelegate.swift */; };
 		EAB474B42302A569002FD1EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB474B32302A569002FD1EB /* ContentView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		869E955F230A46AA005BFF1B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		EAB474AC2302A569002FD1EB /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAB474AF2302A569002FD1EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAB474B12302A569002FD1EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				EAB474B12302A569002FD1EB /* SceneDelegate.swift */,
 				EAB474B32302A569002FD1EB /* ContentView.swift */,
 				EAE6CA8E2302D67000351DBE /* CircleImage.swift */,
+				869E955F230A46AA005BFF1B /* MapView.swift */,
 				EAB474B52302A56A002FD1EB /* Assets.xcassets */,
 				EAB474BA2302A56A002FD1EB /* LaunchScreen.storyboard */,
 				EAB474BD2302A56A002FD1EB /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				EAB474B02302A569002FD1EB /* AppDelegate.swift in Sources */,
 				EAE6CA8F2302D67000351DBE /* CircleImage.swift in Sources */,
+				869E9560230A46AA005BFF1B /* MapView.swift in Sources */,
 				EAB474B22302A569002FD1EB /* SceneDelegate.swift in Sources */,
 				EAB474B42302A569002FD1EB /* ContentView.swift in Sources */,
 			);
